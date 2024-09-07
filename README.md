@@ -1,4 +1,11 @@
 ## Hi there 👋
+### NAME : CHONCHANAN JITRAWANG
+### NICKNAME : SETTING
+### MY AGE : 20 YEARS OLD
+### STUDENT ID : 6610685056
+### FACULTY : ENGINEERING
+### MY CONTACT : [MY INSTAGRAM](https://www.instagram.com/pun_jitrawang/)
+![IMG_4856](https://github.com/user-attachments/assets/baa81df0-5160-4649-87d8-dd5c42d6bdf6)
 
 <!--
 **6610685056/6610685056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
